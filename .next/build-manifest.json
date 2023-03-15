@@ -1,0 +1,138 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/v1_0.0__1668542173689/_buildManifest.js",
+    "static/v1_0.0__1668542173689/_ssgManifest.js",
+    "static/v1_0.0__1668542173689/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/index-27d4c4174f55eca9.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/css/9ed2d827f719af6f.css",
+      "static/chunks/pages/_app-10209e578037edb8.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/_error-05780d4e12a40463.js"
+    ],
+    "/aboutUs": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/aboutUs-52c9d29c873f0c4c.js"
+    ],
+    "/advertisement": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/advertisement-a8e638184419c23a.js"
+    ],
+    "/games": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/games-3fcad325ef7c0591.js"
+    ],
+    "/gamiflyInfo": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/gamiflyInfo-4a7f374122963b18.js"
+    ],
+    "/leaderBoards": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/leaderBoards-11ea966f9505074a.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/login-877490e0c116fd7d.js"
+    ],
+    "/myNft": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/myNft-10be90f4698a0670.js"
+    ],
+    "/notifications": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/notifications-d7524bfaa1f2c08c.js"
+    ],
+    "/profile": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/css/bc45066dc9f958bf.css",
+      "static/chunks/pages/profile-7ead7df4e21efae1.js"
+    ],
+    "/purchase": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/purchase-4098890ba2628118.js"
+    ],
+    "/test": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/test-8dbf08ce991fe551.js"
+    ],
+    "/topReferralsPage": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/topReferralsPage-f6c27145e13e3c44.js"
+    ],
+    "/tournaments": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/tournaments-24cc48505b4f4069.js"
+    ],
+    "/tournamentsDetail": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/tournamentsDetail-0e3ed5d8d54adbbd.js"
+    ],
+    "/transactions": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/css/bc45066dc9f958bf.css",
+      "static/chunks/pages/transactions-fdd994633555f9c2.js"
+    ],
+    "/transfer": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/transfer-38b22eeedd8799a2.js"
+    ],
+    "/vipPage": [
+      "static/chunks/webpack-0a0ba27610fea4ba.js",
+      "static/chunks/framework-75db3117d1377048.js",
+      "static/chunks/main-0ecc7f4725881488.js",
+      "static/chunks/pages/vipPage-807f31b3d4d6d637.js"
+    ]
+  },
+  "ampFirstPages": []
+}

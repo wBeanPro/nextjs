@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/ethereum-provider":{id:22624,files:["static/chunks/624.c376b05c9e8d8c9d.js"]},"../../node_modules/next/dist/client/index.js -> ../pages/_error":{id:89894,files:["static/chunks/894.1d453c233c9d153f.js"]}};
